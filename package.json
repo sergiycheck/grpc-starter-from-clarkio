@@ -5,6 +5,7 @@
   "main": "server/index.js",
   "scripts": {
     "start": "node server/index.js",
+    "start:client": "node client/index.js",
     "generate:certs": "./scripts/generate-certs.sh"
   },
   "author": "(author name here)",
